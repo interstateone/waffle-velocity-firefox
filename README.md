@@ -4,7 +4,7 @@ Based entirely off of [@rockerhieu](https://github.com/rockerhieu/waffle.io-velo
 
 ## Installation
 
-Download the latest .xpi from the [Releases](/releases) page and double click to install.
+Download the latest .xpi from the [Releases](https://github.com/interstateone/waffle-velocity-firefox/releases) page and double click to install.
 
 ## Usage
 
