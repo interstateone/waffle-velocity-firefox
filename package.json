@@ -1,0 +1,9 @@
+{
+  "name": "waffle-velocity-firefox",
+  "title": "Waffle Velocity Scores",
+  "id": "jid1-xlMHrZCytL4kMQ",
+  "description": "This is a simple set of JS and CSS that renders velocity scores based on the content of the GitHub issue title.",
+  "author": "Brandon Evans",
+  "license": "MIT",
+  "version": "1.0"
+}
